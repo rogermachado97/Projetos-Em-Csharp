@@ -1,0 +1,7 @@
+C:\Exercicios C#\Controle_De_Estoque\Controle_De_Estoque\obj\Debug\Controle_De_Estoque.csproj.AssemblyReference.cache
+C:\Exercicios C#\Controle_De_Estoque\Controle_De_Estoque\obj\Debug\Controle_De_Estoque.csproj.CoreCompileInputs.cache
+C:\Exercicios C#\Controle_De_Estoque\Controle_De_Estoque\bin\Debug\Controle_De_Estoque.exe.config
+C:\Exercicios C#\Controle_De_Estoque\Controle_De_Estoque\bin\Debug\Controle_De_Estoque.exe
+C:\Exercicios C#\Controle_De_Estoque\Controle_De_Estoque\bin\Debug\Controle_De_Estoque.pdb
+C:\Exercicios C#\Controle_De_Estoque\Controle_De_Estoque\obj\Debug\Controle_De_Estoque.exe
+C:\Exercicios C#\Controle_De_Estoque\Controle_De_Estoque\obj\Debug\Controle_De_Estoque.pdb
